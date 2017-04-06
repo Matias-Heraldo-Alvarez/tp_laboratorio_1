@@ -1,0 +1,56 @@
+
+/** \brief Toma un numero entero positivo y retorna su factorial.
+ *
+ * \param valor es el numero pasado por el usuario.
+ * \param resultado toma  el el factorial de valor o el numero asignado por el usuario.
+ * \param en caso de error s muestra mensaje de error  y se retorna 0.
+ * \return resultado ( factorial del valor).
+ */
+
+int getFactorial(int numero)
+{
+    int resultado, valor;
+    if(numero<0){system("cls");printf("\tERROR: No es posible calcular el factorial de valores (negativos).\n\n");}
+    else if(numero>1)
+    {
+        valor=numero;
+        resultado= valor*getFactorial(valor-1);
+    }
+    else{ resultado=1;}
+
+    return resultado;
+}
+
+int sum(int num1,int num2)
+{
+ int result;
+
+ result= num1+num2;
+ return result;
+}
+
+int subtraction(int num1,int num2)
+{
+    int result;
+
+    result = num1 - num2;
+    return result;
+}
+
+ int division(int num1,int num2)
+{
+     int result;
+
+     if(num1==0 || num2==0){result=-1;}
+     else{result = num1/num2;}
+     return  result;
+}
+
+int multiply(int num1,int num2)
+{
+    int result;
+
+    result = num1*num2;
+    return result;
+}
+

@@ -1,0 +1,30 @@
+# depslib dependency file v1.0
+1491395833 source:c:\users\matíasheraldo\desktop\trabajos practicos de programacion\tp1\tp_1_cascara\tp_1_cascara\funciones.c
+	"funciones.h"
+	"validaciones.h"
+
+1491177789 source:c:\users\matíasheraldo\desktop\trabajos practicos de programacion\tp1\tp_1_cascara\tp_1_cascara\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+	"validaciones.h"
+	"varios.h"
+
+1491174373 c:\users\matíasheraldo\desktop\trabajos practicos de programacion\tp1\tp_1_cascara\tp_1_cascara\funciones.h
+
+1491185749 source:c:\users\matíasheraldo\desktop\trabajos practicos de programacion\tp1\tp_1_cascara\tp_1_cascara\validaciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+	"validaciones.h"
+
+1491178180 c:\users\matíasheraldo\desktop\trabajos practicos de programacion\tp1\tp_1_cascara\tp_1_cascara\validaciones.h
+
+1491186690 source:c:\users\matíasheraldo\desktop\trabajos practicos de programacion\tp1\tp_1_cascara\tp_1_cascara\varios.c
+	<stdio.h>
+	<stdlib.h>
+	"varios.h"
+
+1491172206 c:\users\matíasheraldo\desktop\trabajos practicos de programacion\tp1\tp_1_cascara\tp_1_cascara\varios.h
+
