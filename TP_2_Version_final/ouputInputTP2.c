@@ -305,3 +305,23 @@ int GetTheName(char message[],char input[])//FUNCIONA OK.
 
     return obtained;
 }
+
+
+/** \brief Verifica si existe alguna persona de alta y nos retorna un valor en funcion de su condicion
+ *
+ * \param datosCargados Es  el estado general de los datos hasta el momento
+ * \param array Es es larray de personas donde buscara
+ * \param length Es el taaño o (longitud) del array
+ * \return 0 en caso de existir datos cargados EOF (-1) en caso de no tener datos cargados.
+ *
+ */
+
+int existenciaDeDatos(int datosCargados,EPersona array[],int length)
+{
+    int i;
+    int hayDatos= EOF;
+
+    for(i=0;i<length;i++)if(array[i].estado== 0)hayDatos= 0;
+
+    return hayDatos;
+}

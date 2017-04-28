@@ -137,3 +137,32 @@
 	"ouputInputTP2.h"
 	"Epersona.h"
 
+1493413494 source:c:\users\matíasheraldo\desktop\tp_2_version_final\epersona.c
+	"Epersona.h"
+
+1493254024 c:\users\matíasheraldo\desktop\tp_2_version_final\epersona.h
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	"UTN.h"
+
+1493019612 c:\users\matíasheraldo\desktop\tp_2_version_final\utn.h
+	<time.h>
+	<string.h>
+	<windows.h>
+	<limits.h>
+
+1493414530 source:c:\users\matíasheraldo\desktop\tp_2_version_final\ouputinputtp2.c
+	"ouputInputTP2.h"
+
+1493354984 c:\users\matíasheraldo\desktop\tp_2_version_final\ouputinputtp2.h
+	<stdio.h>
+	<ctype.h>
+	"UTN.h"
+	"Epersona.h"
+
+1493268626 source:c:\users\matíasheraldo\desktop\tp_2_version_final\utn.c
+	<stdio.h>
+	<stdlib.h>
+	"UTN.h"
+

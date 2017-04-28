@@ -18,5 +18,5 @@ int getDni(char[]);
 int getEdad(char[],int,int);
 int GetTheName(char[],char[]);
 int validLimitsInt(int,int,int);
-
+int existenciaDeDatos(int datos,EPersona[],int);
 #endif // OUPUTINPUTTP2_H_INCLUDED

@@ -6,8 +6,6 @@
 //DEFINICIONES________________________
 #define QTY_PEOPLE 20
 
-int existenciaDeDatos(int datos,EPersona[],int);
-
 int main()
 {
     ///variables varias___________
@@ -61,14 +59,4 @@ int main()
         }
     }
     return 0;
-}
-
-int existenciaDeDatos(int datosCargados,EPersona array[],int length)
-{
-    int i;
-    int hayDatos= EOF;
-
-    for(i=0;i<length;i++)if(array[i].estado== 0)hayDatos= 0;
-
-    return hayDatos;
 }
