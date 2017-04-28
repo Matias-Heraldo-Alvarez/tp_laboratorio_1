@@ -1,0 +1,139 @@
+# depslib dependency file v1.0
+1492721205 source:c:\users\matíasheraldo\desktop\trabajos practicos de programacion\tp 2\tp_2_cascara\tp_2_cascara\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"UTN.h"
+
+1492719445 c:\users\matíasheraldo\desktop\trabajos practicos de programacion\tp 2\tp_2_cascara\tp_2_cascara\utn.h
+	<string.h>
+	<limits.h>
+
+1492714210 source:c:\users\matíasheraldo\desktop\trabajos practicos de programacion\tp 2\tp_2_cascara\tp_2_cascara\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"UTN.h"
+
+1493019611 source:c:\users\matias\desktop\trabajos practicos de programacion\tp 2\tp_2_cascara\tp_2_cascara\utn.c
+	<stdio.h>
+	<stdlib.h>
+	"UTN.h"
+
+1493019611 c:\users\matias\desktop\trabajos practicos de programacion\tp 2\tp_2_cascara\tp_2_cascara\utn.h
+	<time.h>
+	<string.h>
+	<windows.h>
+	<limits.h>
+
+1493019567 source:c:\users\matias\desktop\trabajos practicos de programacion\tp 2\tp_2_cascara\tp_2_cascara\main.c
+	<stdio.h>
+	<stdlib.h>
+	"UTN.h"
+
+1493096918 source:e:\tp_2_cascara\main.c
+	<stdio.h>
+	<stdlib.h>
+	"UTN.h"
+
+1493019612 e:\tp_2_cascara\utn.h
+	<time.h>
+	<string.h>
+	<windows.h>
+	<limits.h>
+
+1493097466 source:e:\tp_2_cascara\utn.c
+	<stdio.h>
+	<stdlib.h>
+	"UTN.h"
+
+1493354983 source:c:\users\matíasheraldo\desktop\tp_2_cascara\main.c
+	<stdio.h>
+	<stdlib.h>
+	"UTN.h"
+	"ouputInputTP2.h"
+	"Epersona.h"
+
+1493019612 c:\users\matíasheraldo\desktop\tp_2_cascara\utn.h
+	<time.h>
+	<string.h>
+	<windows.h>
+	<limits.h>
+
+1493268624 source:c:\users\matíasheraldo\desktop\tp_2_cascara\utn.c
+	<stdio.h>
+	<stdlib.h>
+	"UTN.h"
+
+1493175265 source:c:\users\matias\desktop\tp_2_cascara\utn.c
+	<stdio.h>
+	<stdlib.h>
+	"UTN.h"
+
+1493019612 c:\users\matias\desktop\tp_2_cascara\utn.h
+	<time.h>
+	<string.h>
+	<windows.h>
+	<limits.h>
+
+1493176296 source:c:\users\matias\desktop\tp_2_cascara\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	"UTN.h"
+
+1493353668 source:c:\users\matíasheraldo\desktop\tp_2_cascara\epersona.c
+	"Epersona.h"
+
+1493254022 c:\users\matíasheraldo\desktop\tp_2_cascara\epersona.h
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	"UTN.h"
+
+1493353996 source:c:\users\matíasheraldo\desktop\tp_2_cascara\ouputinputtp2.c
+	"ouputInputTP2.h"
+
+1493354983 c:\users\matíasheraldo\desktop\tp_2_cascara\ouputinputtp2.h
+	<stdio.h>
+	<ctype.h>
+	"UTN.h"
+	"Epersona.h"
+
+1493413494 source:e:\tp_2_version_final\epersona.c
+	"Epersona.h"
+
+1493254024 e:\tp_2_version_final\epersona.h
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	"UTN.h"
+
+1493019612 e:\tp_2_version_final\utn.h
+	<time.h>
+	<string.h>
+	<windows.h>
+	<limits.h>
+
+1493268626 source:e:\tp_2_version_final\utn.c
+	<stdio.h>
+	<stdlib.h>
+	"UTN.h"
+
+1493355222 source:e:\tp_2_version_final\ouputinputtp2.c
+	"ouputInputTP2.h"
+
+1493354984 e:\tp_2_version_final\ouputinputtp2.h
+	<stdio.h>
+	<ctype.h>
+	"UTN.h"
+	"Epersona.h"
+
+1493414136 source:e:\tp_2_version_final\main.c
+	<stdio.h>
+	<stdlib.h>
+	"UTN.h"
+	"ouputInputTP2.h"
+	"Epersona.h"
+
