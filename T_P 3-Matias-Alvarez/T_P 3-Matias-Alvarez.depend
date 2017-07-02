@@ -1,0 +1,89 @@
+# depslib dependency file v1.0
+1498019850 source:e:\t_p 3-matias-alvarez\main.c
+	<stdio.h>
+	<stdlib.h>
+	"UTN.h"
+	"T_P3.h"
+
+1496696202 e:\t_p 3-matias-alvarez\utn.h
+	<time.h>
+	<string.h>
+	<windows.h>
+	<limits.h>
+	<stdio.h>
+	<ctype.h>
+	"UTN.h"
+
+1498019372 e:\t_p 3-matias-alvarez\t_p3.h
+	<stdio.h>
+	<stdlib.h>
+	"UTN.h"
+
+1497987772 source:e:\t_p 3-matias-alvarez\t_p3.c
+	<stdio.h>
+	<stdlib.h>
+	"T_P3.h"
+
+1497041404 source:e:\t_p 3-matias-alvarez\utn.c
+	<stdio.h>
+	<stdlib.h>
+	"UTN.h"
+
+1497846942 source:g:\t_p 3-matias-alvarez\t_p3.c
+	<stdio.h>
+	<stdlib.h>
+	"T_P3.h"
+
+1497848900 g:\t_p 3-matias-alvarez\t_p3.h
+	"UTN.h"
+
+1496696202 g:\t_p 3-matias-alvarez\utn.h
+	<time.h>
+	<string.h>
+	<windows.h>
+	<limits.h>
+	<stdio.h>
+	<ctype.h>
+	"UTN.h"
+
+1497041404 source:g:\t_p 3-matias-alvarez\utn.c
+	<stdio.h>
+	<stdlib.h>
+	"UTN.h"
+
+1497848872 source:g:\t_p 3-matias-alvarez\main.c
+	<stdio.h>
+	<stdlib.h>
+	"UTN.h"
+	"T_P3.h"
+
+1497987772 source:f:\t_p 3-matias-alvarez\t_p3.c
+	<stdio.h>
+	<stdlib.h>
+	"T_P3.h"
+
+1498019372 f:\t_p 3-matias-alvarez\t_p3.h
+	<stdio.h>
+	<stdlib.h>
+	"UTN.h"
+
+1496696202 f:\t_p 3-matias-alvarez\utn.h
+	<time.h>
+	<string.h>
+	<windows.h>
+	<limits.h>
+	<stdio.h>
+	<ctype.h>
+	"UTN.h"
+
+1497041404 source:f:\t_p 3-matias-alvarez\utn.c
+	<stdio.h>
+	<stdlib.h>
+	"UTN.h"
+
+1498867870 source:f:\t_p 3-matias-alvarez\main.c
+	<stdio.h>
+	<stdlib.h>
+	"UTN.h"
+	"T_P3.h"
+
